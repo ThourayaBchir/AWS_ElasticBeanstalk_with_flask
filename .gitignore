@@ -5,4 +5,9 @@
 !.elasticbeanstalk/*.global.yml
 
 eb_venv/*
-eb_venv
+eb_ven
+eb_ven/*
+
+application/__pycache__/
+
+.idea/
