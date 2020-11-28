@@ -17,7 +17,7 @@ or
 
 `eb init`  
 
-This last command will walk the user through the options to set and it will enable the possibility to set a key pair to access to the EC2 instance with ssh
+This last command will walk the user through the options to set and it will enable the possibility to set a key pair to access the EC2 instance with ssh
 
 _Note: the eb init step will automatically create the needed config file: `.elasticbeanstalk/config.yml` at the root of the project_
 
