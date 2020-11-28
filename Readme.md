@@ -1,3 +1,6 @@
+Deploying a Flask application using AWS Elastic Beanstalk 
+---------------------------------------------------------
+
 ```
 git clone git@github.com:ThourayaBchir/ElasticBeanstalk_Flask.git
 cd ElasticBeanstalk_Flask
