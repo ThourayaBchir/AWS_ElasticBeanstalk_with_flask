@@ -1,5 +1,5 @@
 ```
-git@github.com:ThourayaBchir/ElasticBeanstalk_Flask.git
+git clone git@github.com:ThourayaBchir/ElasticBeanstalk_Flask.git
 cd ElasticBeanstalk_Flask
 python3 -m venv eb_venv
 source eb_ven/bin/activate
